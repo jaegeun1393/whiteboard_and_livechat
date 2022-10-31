@@ -1,0 +1,7 @@
+How to run?
+
+1. npm install on the client and server
+2. npm start both (client / server)
+3. default address will be: http://localhost:3000/
+4. goto http://localhost:3000/join/drawing
+5. click the share button and paste it on the different tab (join the socket room)
